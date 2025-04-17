@@ -1,5 +1,5 @@
 # Advancing Hate Speech Detection with Transformers: Experiments and Insights from the MetaHate Dataset
-![encoder-decoder](images/figure1.png)
+![encoder-decoder](images/encoder-decoder.jpeg)
 
 Fig: Encoder-Based (Left) and Decoder-Based (Right) Architectures of the Transformer
 
