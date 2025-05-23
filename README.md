@@ -12,7 +12,7 @@ scikit-learn=1.2.2 <br>
 transformers=4.44.0 <br>
 
 ### Code Reference
-The coding refernce for this project are from <br>
+The coding reference for this project are from <br>
 https://github.com/zekaouinoureddine/Opinion-Transformers
 
 ### Instructions
